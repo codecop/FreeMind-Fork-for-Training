@@ -24,7 +24,7 @@
 	<classpathentry kind="lib" path="lib/bindings.jar"/>
 	<classpathentry kind="lib" path="lib/jibx/jibx-run.jar"/>
 	<classpathentry kind="lib" path="lib/junit.jar" sourcepath="/home/foltin/programming/java/junit-4.10-src.jar"/>
-	<classpathentry kind="lib" path="lib/SimplyHTML/gnu-regexp-1.1.4.jar"/>	
+	<classpathentry kind="lib" path="lib/SimplyHTML/gnu-regexp-1.1.4.jar"/>
 	<classpathentry kind="lib" path="lib/SimplyHTML/SimplyHTML.jar" sourcepath="/home/foltin/java/simplyhtml/simplyhtml"/>
 	<classpathentry kind="lib" path="plugins/latex/HotEqn.jar"/>
 	<classpathentry kind="lib" path="plugins/collaboration/database/hsqldb.jar" sourcepath="plugins/collaboration/database/hsqldb_1_8_1_3.zip"/>
@@ -35,7 +35,7 @@
 	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
 	<classpathentry kind="lib" path="lib/xml-apis.jar"/>
 	<classpathentry kind="lib" path="lib/jsoup-1.10.3.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="lib/jgoodies-forms-1.8.0.jar"/>
 	<classpathentry kind="lib" path="lib/jgoodies-common-1.8.1.jar"/>
 	<classpathentry kind="lib" path="plugins/svg/batik-anim.jar"/>
