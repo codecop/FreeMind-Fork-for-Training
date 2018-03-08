@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="**/build*.xml|**/build.xml|**/cvs/" kind="src" path=""/>
+	<classpathentry excluding="**/build*.xml|**/build.xml" kind="src" path=""/>
 	<classpathentry kind="lib" path="plugins/svg/xml-apis.jar"/>
 	<classpathentry kind="lib" path="plugins/svg/batik-bridge.jar"/>
 	<classpathentry kind="lib" path="plugins/svg/batik-css.jar"/>
@@ -25,7 +25,7 @@
 	<classpathentry kind="lib" path="lib/jibx/jibx-run.jar"/>
 	<classpathentry kind="lib" path="lib/junit.jar" sourcepath="/home/foltin/programming/java/junit-4.10-src.jar"/>
 	<classpathentry kind="lib" path="lib/SimplyHTML/gnu-regexp-1.1.4.jar"/>
-	<classpathentry kind="lib" path="lib/SimplyHTML/SimplyHTML.jar" sourcepath="/home/foltin/java/simplyhtml/simplyhtml"/>
+	<classpathentry kind="lib" path="lib/SimplyHTML/SimplyHTML.jar"/>
 	<classpathentry kind="lib" path="plugins/map/JMapViewer.jar" sourcepath="plugins/map/JMapViewer_src.jar"/>
 	<classpathentry kind="lib" path="lib/jortho.jar"/>
 	<classpathentry kind="lib" path="lib/serializer.jar"/>
