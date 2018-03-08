@@ -232,12 +232,6 @@
 			</fileset>
 		</copy>
 		<chmod file="${dist}/freemind.sh" perm="u+rx"/>
-		<copy todir="${dist}">
-			<fileset dir="${src}/windows-launcher">
-				<include name="FreeMind.exe"/>
-				<include name="FreeMind64.exe"/>
-			</fileset>
-		</copy>
 		<mkdir dir="${dist}/doc" />
 		<copy todir="${dist}/doc">
 			<fileset dir="${src}/doc/">
@@ -284,8 +278,6 @@
 	</target>
 
 	<target name="dist_icon">
-		<!--		<copy file="${src}/windows-launcher/Freemind_light_bulb.exe"
-			tofile="${dist}/Freemind.exe" overwrite="true"/> -->
 	</target>
 
 	<target name="dist_macos" if="isMacOs">
