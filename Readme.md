@@ -1,12 +1,12 @@
 # FreeMind Fork for Training
 
-> Large Java Code Base to explore (and try to fix) for Training Purposes.
+Large Java Code Base to explore (and try to fix) for Training Purposes.
 
 ## FreeMind
 
-[FreeMind](http://freemind.sourceforge.net) is a premier, free mind-mapping program written in Java.
-It lets you organize your ideas as a "mindmap," a graphical structure of nodes and branches
-(or edges) attached to a central "root" node.
+> [FreeMind](http://freemind.sourceforge.net) is a premier, free mind-mapping program written in Java.
+> It lets you organize your ideas as a "mindmap," a graphical structure of nodes and branches
+> (or edges) attached to a central "root" node.
 
 ### Fork
 
