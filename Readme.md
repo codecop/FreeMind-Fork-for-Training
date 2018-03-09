@@ -41,7 +41,9 @@ I use it regularly and it is great.
 
 ## Code Base
 
-This version of FreeMind has based on Java 1.7.
+This version of FreeMind has based on Java 1.7. 
+The user interface is using Swing and I18n is in place.
+FreeMind depends only on a few libraries, half of them are for XML processing.
 
 ### Metrics
 
