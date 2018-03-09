@@ -1,6 +1,6 @@
 # FreeMind Fork for Training
 
-  Large Java Code Base to explore (and try to fix) for Training Purposes.
+> Large Java Code Base to explore (and try to fix) for Training Purposes.
 
 ## FreeMind
 
